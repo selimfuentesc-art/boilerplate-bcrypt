@@ -2,7 +2,7 @@
   "name": "FCC-Advanced-Node-and-Express",
   "author": "http://github.com/JosephLivengood",
   "version": "0.0.1",
-  "description": "What am I about?",
+  "description": "What Am I about?",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
